@@ -1,2 +1,2 @@
 # ML_project
-A project using machine learning techniques on agriculture practices.
+A project to improve agriculture practices using Deep Learning & Statistics.
